@@ -1,4 +1,5 @@
 
+import classes from './main-header.module.css'
 import Image from "next/image";
 export default function Header() {
     return (
