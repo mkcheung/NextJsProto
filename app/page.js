@@ -1,7 +1,7 @@
 import { Linden_Hill } from "next/font/google";
 import Image from "next/image";
 import Link from "next/link";
-import Header from "@/components/Header";
+import Header from "@/components/main-header/Header";
 import classes from './page.module.css';
 import ImageSlideshow from "@/components/images/image-slideshow";
 
